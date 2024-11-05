@@ -1,0 +1,5 @@
+body{
+    background-image:URL(logo);
+    font-family:arial;
+    text-align:center;
+}
